@@ -1,2 +1,2 @@
-# template-basic
-Basic template repository with HTML, CSS and JS.
+# odin-recipes
+Project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) where three recipes are display using only basic HTML. The goal of this project is to show basic HTML and Git knowledge.
